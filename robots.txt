@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bailbondlosangeles.com/sitemap.xml
